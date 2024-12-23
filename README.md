@@ -1,6 +1,6 @@
 ##############################################
 #                                            #
-#    OffSec Developer Extraordinaire         #
+\#    OffSec Developer Extraordinaire         #
 #    Braaains? Nope, Code!                   #
 #                                            #
 ##############################################
