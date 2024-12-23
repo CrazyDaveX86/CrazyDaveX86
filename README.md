@@ -15,6 +15,4 @@ Hey there, I'm the Crazy Dave of Offensive Security! A little quirky, a little w
 
 **Remember**: Stay sharp, stay sneaky, and always have a backup taco.  
 
----
-
-"Brains are for zombies. Creativity is for conquerors!"  
+# "Brains are for zombies. Creativity is for conquerors!"  
