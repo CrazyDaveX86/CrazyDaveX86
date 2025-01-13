@@ -1,6 +1,6 @@
 # Welcome to the Chaos
 
-This isn’t a portfolio it’s a warzone. I write code that barely works, or maybe even break your system. If you're looking for clean, leave now.
+This isn’t a portfolio it’s a warzone. I write code that barely works, or maybe even break your system. If you're looking for clean code, leave now.
 
 ## Who Am I?
 
