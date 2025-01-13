@@ -1,6 +1,6 @@
 # Welcome to the Chaos
 
-This isn’t a portfolio it’s a warzone. I write code that breaks systems and rewires how they’re supposed to work. If you're looking for clean, cuddly projects, leave now.
+This isn’t a portfolio it’s a warzone. I write code that barely works, or maybe even break your system. If you're looking for clean, leave now.
 
 ## Who Am I?
 
@@ -16,7 +16,7 @@ Write, break, and fix software—usually in that order.
 
 ## Tech Stack
 
-C, C++, Python, Assembly (x86/ARM) , Go, Linux, Windows. Everything else is just noise. I don't fucking use RUST because i already write memory safe code
+C, C++, Python, Assembly (x86/ARM) , Go, Linux, Windows. Everything else is just noise. I don't fucking use RUST because i already write memory safe code xD
 
 ## Why I’m Here
 
