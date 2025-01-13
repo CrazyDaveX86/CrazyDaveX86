@@ -1,18 +1,23 @@
-# OffSec Developer Extraordinaire  
-**Braaains? Nope, Code!**  
+# Welcome to the Chaos
 
-Hey there, I'm the Crazy Dave of Offensive Security! A little quirky, a little wild, but always focused on the mission—crafting exploits, building tools, and taking security to the next level.  
+This isn’t a portfolio it’s a warzone. I write code that breaks systems and rewires how they’re supposed to work. If you're looking for clean, cuddly projects, leave now.
+Who Am I?
 
-## What I Do  
-- Malware Maestro: Crafting sneaky yet elegant malware (for educational purposes, of course).  
-- Red Team Wizardry: Finding doors where others see walls.  
-- Cyber Sleight-of-Hand: Turning the impossible into "oh snap, it works!" moments.  
+    A programmer who doesn’t waste time pretending to care about rules.
+    The person who finds bugs and turns them into weapons.
+    Self-taught. Relentless. Probably smarter than you.
 
-## Tools in My Garage  
-- Custom RATs & C2 Frameworks  
-- Kernel Shenanigans  
-- Endpoint Busters  
+# What I Do
 
-**Remember**: Stay sharp, stay sneaky, and always have a backup taco.  
+    Build tools to make attackers cry and defenders sweat.
+    Play with low-level code like it’s a sandbox.
+    Write, break, and fix software—usually in that order.
 
-# "Brains are for zombies. Creativity is for conquerors!"  
+# Tech Stack
+
+C, C++, Python, Assembly (x86/ARM) , Go, Linux, Windows. Everything else is just noise. I don't fucking use RUST because i already write memory safe code
+Why I’m Here
+
+To create, destroy, and leave a mess behind.
+
+If you think you can keep up, fork something. If not, move along.
