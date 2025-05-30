@@ -1,2 +1,2 @@
 I'm Joe.
-I don't like memory-sage languages because they assumes you can't write memory safe code and treat you like an idiot
+I don't like memory-safe languages because they assumes you can't write memory safe code and treat you like an idiot
